@@ -3,7 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Salsabila/AndroidStudioProjects/TugasModul7/app/src/main/res/layout/activity_insert_update.xml" value="0.1" />
         <entry key="..\:/Users/Salsabila/AndroidStudioProjects/TugasModul7/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Salsabila/AndroidStudioProjects/TugasModul7/app/src/main/res/layout/item_note.xml" value="0.1" />
+        <entry key="..\:/Users/Salsabila/AndroidStudioProjects/TugasModul7/app/src/main/res/menu/menu_form.xml" value="0.1" />
       </map>
     </option>
   </component>
